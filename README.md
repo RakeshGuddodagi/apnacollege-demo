@@ -1,4 +1,2 @@
 # apnacollege-demo
-this is praveen from 
-<br>
-Namaste react
+hello world from javascript
